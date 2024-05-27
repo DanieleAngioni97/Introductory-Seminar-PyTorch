@@ -6,9 +6,13 @@ If you want to register please fill out [this form](https://docs.google.com/form
 
 # Dates
 01/07/2024
+
 02/07/2024
+
 03/07/2024
+
 04/07/2024
+
 05/07/2024
 
 
