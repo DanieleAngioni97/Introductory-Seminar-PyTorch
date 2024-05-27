@@ -1,32 +1,28 @@
 # Introductory Seminar of PyTorch for Deep Learning
 
 
-In this repository there will be progressively added the material for the seminar given in the context of the Cagliari Digital Lab 2024 project.
+In this repository you can find the material (progressively added) for the seminar given in the context of the Cagliari Digital Lab 2024 project.
 If you want to register please fill out [this form](https://docs.google.com/forms/d/1KRKrZ7qyI7oM8MGf0hSsAV5nSv1QAVViqIVpeSm4Kkc/edit)
 
 # Dates
-01/07/2024
-
-02/07/2024
-
-03/07/2024
-
-04/07/2024
-
-05/07/2024
+1-5 July 2024, 9:00/13:00
 
 
 # Program
 **PyTorch Fundamentals**
+
 In the first part, we will learn how to represent data as PyTorch tensor objects, how to manipulate this data structure, and how the autograd mechanism allows to automatically keep track of the tensor computations in order to obtain the gradients with respect to any variable.
 
 **Implementation and Training of a Neural Network**
+
 During the second part, we will learn how to implement a neural network in PyTorch, define the loss function, implement the gradient descent algorithm, and eventually evaluate our network. We will also see how we can use different predefined PyTorch modules, such as particular loss functions and optimizers, to obtain similar results with fewer lines of code.
 
 **Deep Learning for Computer Vision Tasks with PyTorch**
+
 The third part will be dedicated to deep learning techniques for computer vision, with a particular focus on image classification tasks. We will first see how visual data is represented as PyTorch tensors, how it can be manipulated and processed to improve convergence in deep neural networks and how we can use the PyTorch data loading mechanism to deal with large datasets efficiently. Then, we will focus on implementing a convolutional neural network (CNN): we will start from the concepts of convolution and pooling, batch normalization, regularization techniques and some more advanced architectures such as ResNet. Lastly, we will see how to finetune a pre-trained CNN for different classification tasks.
 
 **Deep Learning for Natural Language Processing with PyTorch**
+
 The fourth part will be dedicated to deep learning techniques for natural language processing tasks. We will first see how to deal with sequential data such as text by using word embeddings; then we will focus on the implementation of a particular class of neural networks: the recurrent neural networks (RNN). We will implement an RNN and we will explore the concept of back-propagation through time to train it in the context of text generation and sentiment analysis. Lastly, we can use and adapt a pre-trained language model to improve the performances on the latter downstream tasks.
 
 **Adapting to different frameworks: Tensorflow**
