@@ -11,11 +11,11 @@ This seminar will offer a practical overview of the most used deep learning tech
 | :---:   | :---: | :---: | :---: | :---: |
 | 01/07/2024 | 9:00 - 13:00   | PyTorch Fundamentals  | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
 | 02/07/2024 | 9:00 - 13:00   | Implementation and Training of a Neural Network   | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
-| 03/07/2024 | 9:00 - 13:00   | Deep Learning for Computer Vision Tasks with PyTorch   | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
+| 03/07/2024 | 9:00 - 13:00   | Deep Learning for Computer Vision with PyTorch   | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
 | 04/07/2024 | 9:00 - 13:00   | Deep Learning for Natural Language Processing with PyTorch  | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
 | 05/07/2024 | 9:00 - 13:00   | Adapting to different frameworks: Tensorflow  | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
 
-Here is the [link](https://web.unica.it/static/resources/cms/documents/Aulenuovinomi.pdf) for the campus map 🧭
+Here is the [link](https://web.unica.it/static/resources/cms/documents/Aulenuovinomi.pdf) for the campus map.
 
 
 # Program 🏋️
@@ -28,7 +28,7 @@ In the first part, we will learn how to represent data as PyTorch tensor objects
 
 During the second part, we will learn how to implement a neural network in PyTorch, define the loss function, implement the gradient descent algorithm, and eventually evaluate our network. We will also see how we can use different predefined PyTorch modules, such as particular loss functions and optimizers, to obtain similar results with fewer lines of code.
 
-:pushpin:**Deep Learning for Computer Vision Tasks with PyTorch**
+:pushpin:**Deep Learning for Computer Vision with PyTorch**
 
 The third part will be dedicated to deep learning techniques for computer vision, with a particular focus on image classification tasks. We will first see how visual data is represented as PyTorch tensors, how it can be manipulated and processed to improve convergence in deep neural networks and how we can use the PyTorch data loading mechanism to deal with large datasets efficiently. Then, we will focus on implementing a convolutional neural network (CNN): we will start from the concepts of convolution and pooling, batch normalization, regularization techniques and some more advanced architectures such as ResNet. Lastly, we will see how to finetune a pre-trained CNN for different classification tasks.
 
