@@ -1,10 +1,12 @@
 # Introductory Seminar of PyTorch for Deep Learning
 
+In this repository, you can find the material (progressively added) for the seminar given in the context of the Cagliari Digital Lab 2024 project.
+If you want to register, please fill out [this form](https://docs.google.com/forms/d/1KRKrZ7qyI7oM8MGf0hSsAV5nSv1QAVViqIVpeSm4Kkc/edit)
 
-In this repository you can find the material (progressively added) for the seminar given in the context of the Cagliari Digital Lab 2024 project.
-If you want to register please fill out [this form](https://docs.google.com/forms/d/1KRKrZ7qyI7oM8MGf0hSsAV5nSv1QAVViqIVpeSm4Kkc/edit)
+# Overview 📋
+This seminar will offer a practical overview of the most used deep learning techniques in the context of computer vision and natural language processing applications. This will be done through the lens of PyTorch, one of the most used deep learning frameworks in both industry and academics. PyTorch allows the implementation and training of deep neural networks through a practical and simple interface without losing touch with the mathematical foundation behind these technologies.
 
-# Dates
+# Dates 📆
 | Date | Time    | Topic    | Room | Building |
 | :---:   | :---: | :---: | :---: | :---: |
 | 01/07/2024 | 9:00 - 13:00   | PyTorch Fundamentals  | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
@@ -13,8 +15,10 @@ If you want to register please fill out [this form](https://docs.google.com/form
 | 04/07/2024 | 9:00 - 13:00   | Deep Learning for Natural Language Processing with PyTorch  | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
 | 05/07/2024 | 9:00 - 13:00   | Adapting to different frameworks: Tensorflow  | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
 
+Here is the [link](https://web.unica.it/static/resources/cms/documents/Aulenuovinomi.pdf) for the campus map 🧭
 
-# Program
+
+# Program 🏋️
 
 :pushpin:**PyTorch Fundamentals**
 
