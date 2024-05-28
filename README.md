@@ -5,7 +5,13 @@ In this repository you can find the material (progressively added) for the semin
 If you want to register please fill out [this form](https://docs.google.com/forms/d/1KRKrZ7qyI7oM8MGf0hSsAV5nSv1QAVViqIVpeSm4Kkc/edit)
 
 # Dates
-1-5 July 2024, 9:00/13:00
+| Date | Time    | Topic    | Room | Building |
+| :---:   | :---: | :---: | :---: | :---: |
+| 01/07/2024 | 9:00 - 13:00   | PyTorch Fundamentals  | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
+| 02/07/2024 | 9:00 - 13:00   | Implementation and Training of a Neural Network   | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
+| 03/07/2024 | 9:00 - 13:00   | Deep Learning for Computer Vision Tasks with PyTorch   | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
+| 04/07/2024 | 9:00 - 13:00   | Deep Learning for Natural Language Processing with PyTorch  | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
+| 05/07/2024 | 9:00 - 13:00   | Adapting to different frameworks: Tensorflow  | Laboratorio L.I.D.I.A Software | Building N - Entrance N1 |
 
 
 # Program
